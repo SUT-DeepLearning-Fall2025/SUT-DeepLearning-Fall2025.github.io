@@ -1,0 +1,258 @@
+- date: 
+    - 1404/07/19
+  subjects:
+    - title: "**Introduction**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-1.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 1 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/01bool.pdf"
+  color: ""
+
+- date:
+    - 1404/07/21
+  subjects:
+    - title: "**Boolean information retrieval and document preprocessing**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-2.pdf"
+  assignment: []
+  sections:
+    - title: "Chapters 1 & 2 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/02voc.pdf"
+  color: ""
+
+- date:
+    - 1404/07/26
+  subjects:
+    - title: "**Dictionaries and tolerant retrieval**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-3.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 3 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/03dict.pdf"
+  color: ""
+
+- date:
+    - 1404/07/28
+  subjects:
+    - title: "**Index Construction**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-4.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 4 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/04const.pdf"
+  color: ""
+
+- date:
+    - 1404/08/03
+  subjects:
+    - title: "**Index compression**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-5.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 5 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/05comp.pdf"
+  color: ""
+
+- date:
+    - 1404/08/05
+  subjects:
+    - title: "**Vector space model**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-6.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 6 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/06vect.pdf"
+  color: ""
+
+- date:
+    - 1404/08/10
+  subjects:
+    - title: "**Scores in a complete search system**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-7.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 7 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/07system.pdf"
+  color: ""
+
+- date:
+    - 1404/08/12
+  subjects:
+    - title: "**Evaluation in information retrieval**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-8.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 8 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/08eval.pdf"
+  color: ""
+
+- date:
+    - 1404/08/17
+    - 1404/08/19
+  subjects:
+    - title: "**Relevance feedback and query expansion**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-9.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 9 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/09expand.pdf"
+  color: ""
+
+- date:
+    - 1404/08/24
+  subjects:
+    - title: "**Probabilistic Information Retrieval**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-10.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 11 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/11prob.pdf"
+  color: ""
+
+- date:
+    - 1404/08/26
+  subjects:
+    - title: "**Language Models for Information Retrieval**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-11.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 12 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/12lmodel.pdf"
+  color: ""
+
+- date:
+    - 1404/09/01
+    - 1404/09/03
+  subjects:
+    - title: "**Probabilistic text classification**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-13.pdf"
+    - title: "**Vector space text classification**"
+      link: "https://sharif.edu/~beigy/courses/14041/40324/Lect-14.pdf"
+  assignment: []
+  sections:
+    - title: "Chapters 13-15 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf"
+  color: ""
+
+- date:
+    - 1404/09/08
+  subjects:
+    - title: "**Mid-term exam**"
+      link: ""
+  assignment:
+    - title: "Mid-term exam"
+      link: ""
+  sections: []
+  color: "red"
+
+- date:
+    - 1404/09/10
+  subjects:
+    - title: "**Vector space text classification**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-14.pdf"
+  assignment: []
+  sections:
+    - title: "Chapters 13-15 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/14vcat.pdf"
+  color: ""
+
+- date:
+    - 1404/09/15
+    - 1404/09/17
+    - 1404/09/22
+  subjects:
+    - title: "**Text clustering**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-17.pdf"
+  assignment: []
+  sections:
+    - title: "Chapters 16 & 17 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/16flat.pdf"
+  color: ""
+
+- date:
+    - 1404/09/24
+  subjects:
+    - title: "**Dimensionality reduction and feature selection**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-20.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 13 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf"
+  color: ""
+
+- date:
+    - 1404/09/29
+  subjects:
+    - title: "**Latent Semantic Indexing**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-21.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 18 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/18lsi.pdf"
+  color: ""
+
+- date:
+    - 1404/10/01
+    - 1404/10/06
+  subjects:
+    - title: "**Web crawling and search**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-22.pdf"
+  assignment: []
+  sections:
+    - title: "Chapters 19 & 20 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/19web.pdf"
+  color: ""
+
+- date:
+    - 1404/10/08
+  subjects:
+    - title: "**Link Analysis**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-25.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 21 of MRS"
+      link: "https://nlp.stanford.edu/IR-book/pdf/21link.pdf"
+  color: ""
+
+- date:
+    - 1404/10/13
+    - 1404/10/15
+  subjects:
+    - title: "**Neural information retrieval**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-25.pdf"
+  assignment: []
+  sections:
+    - title: "MC"
+      link: ""
+  color: ""
+
+- date:
+    - 1404/10/20
+  subjects:
+    - title: "**Retrieval Augmented Generation**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-27.pdf"
+  assignment: []
+  sections: []
+  color: ""
+
+- date:
+    - 1404/10/22
+  subjects:
+    - title: "**Some IR applications**"
+      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-28.pdf"
+  assignment: []
+  sections: []
+  color: ""
+
+- date:
+    - 1404/10/27
+  subjects:
+    - title: "**Final exam**"
+      link: ""
+    - title: "At 9:00"
+      link: ""
+  assignment:
+    - title: "Final exam"
+      link: ""
+  sections: []
+  color: "red"

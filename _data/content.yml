@@ -1,0 +1,68 @@
+title:  What's Included
+includes:
+  - meta: Hours
+    data: 50
+
+  - meta: Exercises
+    data: 5
+
+  - meta: Assistants
+    data: 11
+
+  - meta: Students
+    data: 30+
+
+ 
+
+subtitle: Course Content
+
+lessons:
+
+  # - title: "Slides"
+  #   description: "This section will be completed throughout the semester..."
+  #   body: slides
+
+  - title: "Text books"
+    description: "Related Text books:"
+    body: references
+
+  - title: "Useful Links"
+    description: "Useful links to learn more:"
+    body: related_courses
+
+
+
+
+
+  # - title: "lesson 2: Causality and causal models"
+
+  #   body: lesson_2
+  # - title: "lesson 3: Deep generative models"
+    
+  #   description: "Autoregressive Models"
+  #   body: lesson_3
+  # - title: "lesson 4: Variational auto encoder"
+    
+  #   body: lesson_4
+  # - title: "lesson 5: Generative adversarial networks"
+    
+  #   body: lesson_5
+  # - title: "lesson 6: Normalizing Flows"
+    
+  #   body: lesson_6
+  # - title: "lesson 7: Energy Based Model"
+    
+  #   body: lesson_7
+  # - title: "lesson 8: Score Based Models"
+    
+  #   body: lesson_8
+  # - title: "lesson 9: Evaluation of Generative Models"
+    
+  #   body: lesson_9
+  # - title: "lesson 10: Ethics and bias and interpretation of generative models"
+    
+  #   body: lesson_10
+  
+  
+
+  
