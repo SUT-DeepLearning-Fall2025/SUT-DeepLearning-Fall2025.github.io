@@ -6,6 +6,20 @@
     - name: linkedin
       link: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
 
+- name: Sarina Heshmati
+  roles:
+    - TA
+  image: Sarina.jpg
+  social:
+    - name: gmail
+      link: mailto:sarinaheshmatii@gmail.com
+    - name: linkedin
+      link: https://www.linkedin.com/in/sarina-heshmatii
+    - name: github
+      link: https://github.com/sarinaheshmati
+    - name: website
+      link: https://sarinaheshmati.framer.website/
+
 - name: Hamid Namjoo
   roles:
     - TA
