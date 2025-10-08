@@ -11,6 +11,7 @@
 
 - date:
     - 1404/07/21
+    - 1404/07/26
   subjects:
     - title: "**Machine learning overview**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-2to3.pdf"
@@ -21,7 +22,8 @@
   color: ""
 
 - date:
-    - 1404/07/26
+    - 1404/08/03
+    - 1404/08/05
   subjects:
     - title: "**Feedforward deep networks & backpropagation**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-4to5.pdf"
@@ -32,7 +34,8 @@
   color: ""
 
 - date:
-    - 1404/07/28
+    - 1404/08/10
+    - 1404/08/12
   subjects:
     - title: "**Optimization and regularization**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-6to7.pdf"
@@ -43,7 +46,8 @@
   color: ""
 
 - date:
-    - 1404/08/03
+    - 1404/08/17
+    - 1404/08/19
   subjects:
     - title: "**Convolutional networks**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-8to10.pdf"
@@ -54,7 +58,9 @@
   color: ""
 
 - date:
-    - 1404/08/05
+    - 1404/08/24
+    - 1404/08/26
+    - 1404/09/01
   subjects:
     - title: "**Recurrent neural networks**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-11to14.pdf"
@@ -65,7 +71,9 @@
   color: ""
 
 - date:
-    - 1404/08/10
+    - 1404/09/08
+    - 1404/09/10
+    - 1404/09/15
   subjects:
     - title: "**Representation learning**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-15to18.pdf"
@@ -135,7 +143,7 @@
 #   color: ""
 
 - date:
-    - 1404/09/08
+    - 1404/09/17
   subjects:
     - title: "**Mid-term exam**"
       link: ""
@@ -146,110 +154,95 @@
   color: "red"
 
 - date:
-    - 1404/09/10
-  subjects:
-    - title: "**Attention models**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-14.pdf"
-  assignment: []
-  sections:
-    - title: "Chapters 13-15 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/14vcat.pdf"
-  color: ""
-
-- date:
-    - 1404/09/15
-    - 1404/09/17
     - 1404/09/22
   subjects:
-    - title: "**Text clustering**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-17.pdf"
+    - title: "**Attention models**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-17.pdf"
   assignment: []
   sections:
-    - title: "Chapters 16 & 17 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/16flat.pdf"
+    - title: "Papers given in the slides"
+      link: ""
   color: ""
 
 - date:
     - 1404/09/24
-  subjects:
-    - title: "**Dimensionality reduction and feature selection**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-20.pdf"
-  assignment: []
-  sections:
-    - title: "Chapter 13 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf"
-  color: ""
-
-- date:
     - 1404/09/29
   subjects:
-    - title: "**Latent Semantic Indexing**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-21.pdf"
+    - title: "**Transformers family**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-18to19.pdf"
   assignment: []
   sections:
-    - title: "Chapter 18 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/18lsi.pdf"
+    - title: "Papers given in the slides"
+      link: ""
   color: ""
 
 - date:
     - 1404/10/01
     - 1404/10/06
-  subjects:
-    - title: "**Web crawling and search**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-22.pdf"
-  assignment: []
-  sections:
-    - title: "Chapters 19 & 20 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/19web.pdf"
-  color: ""
-
-- date:
     - 1404/10/08
-  subjects:
-    - title: "**Link Analysis**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-25.pdf"
-  assignment: []
-  sections:
-    - title: "Chapter 21 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/21link.pdf"
-  color: ""
-
-- date:
     - 1404/10/13
     - 1404/10/15
   subjects:
-    - title: "**Neural information retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-25.pdf"
+    - title: "**Deep generative models**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-21to26.pdf"
+  assignment: []
+  sections:
+    - title: "Chapter 20 of GYC, Papers given in the slides"
+      link: ""
+  color: ""
+
+- date:
+    - 1404/10/20
+    - 1404/10/22
+  subjects:
+    - title: "**Deep reinforcement learning*"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-27to29.pdf"
+  assignment: []
+  sections:
+    - title: "Chapters 1 to 6 and 13 of SB, Papers given in the slides"
+      link: ""
+  color: ""
+
+- date:
+    - 1404/10/27
+  subjects:
+    - title: "**Dual Learning**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-29-p1.pdf"
+  assignment: []
+  sections:
+    - title: "Papers given in the slides	"
+      # link: ""
+  color: ""
+
+- date:
+   - 1404/10/27
+  subjects:
+    - title: "**Sum-product networks**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-29-p2.pdf"
+  assignment: []
+  sections:
+    - title: "Papers given in the slides"
+      # link: "https://nlp.stanford.edu/IR-book/pdf/21link.pdf"
+  color: ""
+
+- date:
+   - 1404/10/29
+  subjects:
+    - title: "**Graph Neural Networks**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-30.pdf"
   assignment: []
   sections:
     - title: "MC"
       link: ""
   color: ""
 
-- date:
-    - 1404/10/20
-  subjects:
-    - title: "**Retrieval Augmented Generation**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-27.pdf"
-  assignment: []
-  sections: []
-  color: ""
 
 - date:
-    - 1404/10/22
-  subjects:
-    - title: "**Some IR applications**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-28.pdf"
-  assignment: []
-  sections: []
-  color: ""
-
-- date:
-    - 1404/10/27
+    - 1404/11/02
   subjects:
     - title: "**Final exam**"
       link: ""
-    - title: "At 9:00"
+    - title: "At 10:30"
       link: ""
   assignment:
     - title: "Final exam"
