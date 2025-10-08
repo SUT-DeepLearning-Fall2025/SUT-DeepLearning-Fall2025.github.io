@@ -13,12 +13,12 @@
   social:
     - name: gmail
       link: mailto:alitkvd@gmail.com
-    - name: linkedin
-      link: https://sut-deeplearning-fall2025.github.io/
-    - name: github
-      link: https://sut-deeplearning-fall2025.github.io/
-    - name: website
-      link: https://sut-deeplearning-fall2025.github.io/
+    # - name: linkedin
+    #   link: https://sut-deeplearning-fall2025.github.io/
+    # - name: github
+    #   link: https://sut-deeplearning-fall2025.github.io/
+    # - name: website
+    #   link: https://sut-deeplearning-fall2025.github.io/
 
 - name: Sarina Heshmati
   roles:
@@ -38,13 +38,13 @@
   roles:
     - TA
   image: Rostamian.webp
-  social:
-    - name: github
-      link: https://sut-deeplearning-fall2025.github.io/
-    - name: linkedin
-      link: https://sut-deeplearning-fall2025.github.io/
-    - name: website
-      link: https://sut-deeplearning-fall2025.github.io/
+  # social:
+    # - name: github
+    #   link: https://sut-deeplearning-fall2025.github.io/
+    # - name: linkedin
+    #   link: https://sut-deeplearning-fall2025.github.io/
+    # - name: website
+    #   link: https://sut-deeplearning-fall2025.github.io/
       
 # - name: Amirhossein Akbari
 #   roles:
