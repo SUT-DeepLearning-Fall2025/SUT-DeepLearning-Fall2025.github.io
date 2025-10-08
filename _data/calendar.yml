@@ -5,7 +5,8 @@
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-1.pdf"
   assignment: []
   sections:
-    - title: "Chapter 1 of GYC, Chapter 1 of CH, Chapter 1 of BSH"
+    - title: 
+      - Chapter 1 of GYC, Chapter 1 of CH, Chapter 1 of BSH
       # link: ""
   color: ""
 
