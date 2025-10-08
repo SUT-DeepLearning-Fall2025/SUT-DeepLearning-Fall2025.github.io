@@ -23,116 +23,116 @@
 - date:
     - 1404/07/26
   subjects:
-    - title: "**Dictionaries and tolerant retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-3.pdf"
+    - title: "**Feedforward deep networks & backpropagation**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-4to5.pdf"
   assignment: []
   sections:
-    - title: "Chapter 3 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/03dict.pdf"
+    - title: "Chapter 6 of GYC, Chapter 8 of BSH"
+      link: ""
   color: ""
 
 - date:
     - 1404/07/28
   subjects:
-    - title: "**Index Construction**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-4.pdf"
+    - title: "**Optimization and regularization**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-6to7.pdf"
   assignment: []
   sections:
-    - title: "Chapter 4 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/04const.pdf"
+    - title: "Chapters 7 & 8 of GYC, Chapters 8 & 9 of BSH, Papers given in the slides"
+      link: ""
   color: ""
 
 - date:
     - 1404/08/03
   subjects:
-    - title: "**Index compression**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-5.pdf"
+    - title: "**Convolutional networks**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-8to10.pdf"
   assignment: []
   sections:
-    - title: "Chapter 5 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/05comp.pdf"
+    - title: "Chapter 9 of GYC, Papers given in the slides"
+      link: ""
   color: ""
 
 - date:
     - 1404/08/05
   subjects:
-    - title: "**Vector space model**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-6.pdf"
+    - title: "**Recurrent neural networks**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-11to14.pdf"
   assignment: []
   sections:
-    - title: "Chapter 6 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/06vect.pdf"
+    - title: "Chapter 10 of GYC, Papers given in the slides"
+      link: ""
   color: ""
 
 - date:
     - 1404/08/10
   subjects:
-    - title: "**Scores in a complete search system**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-7.pdf"
+    - title: "**Representation learning**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-15to18.pdf"
   assignment: []
   sections:
-    - title: "Chapter 7 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/07system.pdf"
+    - title: "Chapter 14 of GYC & Papers given in the slides"
+      link: ""
   color: ""
 
-- date:
-    - 1404/08/12
-  subjects:
-    - title: "**Evaluation in information retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-8.pdf"
-  assignment: []
-  sections:
-    - title: "Chapter 8 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/08eval.pdf"
-  color: ""
+# - date:
+#     - 1404/08/12
+#   subjects:
+#     - title: "**Evaluation in information retrieval**"
+#       link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-8.pdf"
+#   assignment: []
+#   sections:
+#     - title: "Chapter 8 of MRS"
+#       link: "https://nlp.stanford.edu/IR-book/pdf/08eval.pdf"
+#   color: ""
 
-- date:
-    - 1404/08/17
-    - 1404/08/19
-  subjects:
-    - title: "**Relevance feedback and query expansion**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-9.pdf"
-  assignment: []
-  sections:
-    - title: "Chapter 9 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/09expand.pdf"
-  color: ""
+# - date:
+#     - 1404/08/17
+#     - 1404/08/19
+#   subjects:
+#     - title: "**Relevance feedback and query expansion**"
+#       link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-9.pdf"
+#   assignment: []
+#   sections:
+#     - title: "Chapter 9 of MRS"
+#       link: "https://nlp.stanford.edu/IR-book/pdf/09expand.pdf"
+#   color: ""
 
-- date:
-    - 1404/08/24
-  subjects:
-    - title: "**Probabilistic Information Retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-10.pdf"
-  assignment: []
-  sections:
-    - title: "Chapter 11 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/11prob.pdf"
-  color: ""
+# - date:
+#     - 1404/08/24
+#   subjects:
+#     - title: "**Probabilistic Information Retrieval**"
+#       link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-10.pdf"
+#   assignment: []
+#   sections:
+#     - title: "Chapter 11 of MRS"
+#       link: "https://nlp.stanford.edu/IR-book/pdf/11prob.pdf"
+#   color: ""
 
-- date:
-    - 1404/08/26
-  subjects:
-    - title: "**Language Models for Information Retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-11.pdf"
-  assignment: []
-  sections:
-    - title: "Chapter 12 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/12lmodel.pdf"
-  color: ""
+# - date:
+#     - 1404/08/26
+#   subjects:
+#     - title: "**Language Models for Information Retrieval**"
+#       link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-11.pdf"
+#   assignment: []
+#   sections:
+#     - title: "Chapter 12 of MRS"
+#       link: "https://nlp.stanford.edu/IR-book/pdf/12lmodel.pdf"
+#   color: ""
 
-- date:
-    - 1404/09/01
-    - 1404/09/03
-  subjects:
-    - title: "**Probabilistic text classification**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-13.pdf"
-    - title: "**Vector space text classification**"
-      link: "https://sharif.edu/~beigy/courses/14041/40324/Lect-14.pdf"
-  assignment: []
-  sections:
-    - title: "Chapters 13-15 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf"
-  color: ""
+# - date:
+#     - 1404/09/01
+#     - 1404/09/03
+#   subjects:
+#     - title: "**Probabilistic text classification**"
+#       link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-13.pdf"
+#     - title: "**Vector space text classification**"
+#       link: "https://sharif.edu/~beigy/courses/14041/40324/Lect-14.pdf"
+#   assignment: []
+#   sections:
+#     - title: "Chapters 13-15 of MRS"
+#       link: "https://nlp.stanford.edu/IR-book/pdf/13bayes.pdf"
+#   color: ""
 
 - date:
     - 1404/09/08
@@ -148,7 +148,7 @@
 - date:
     - 1404/09/10
   subjects:
-    - title: "**Vector space text classification**"
+    - title: "**Attention models**"
       link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-14.pdf"
   assignment: []
   sections:

@@ -14,11 +14,11 @@
     - name: gmail
       link: mailto:alitkvd@gmail.com
     - name: linkedin
-      link: https://www.linkedin.com/in/sarina-heshmatii
+      link: https://sut-deeplearning-fall2025.github.io/
     - name: github
-      link: https://www.linkedin.com/in/sarina-heshmatii
+      link: https://sut-deeplearning-fall2025.github.io/
     - name: website
-      link: https://www.linkedin.com/in/sarina-heshmatii
+      link: https://sut-deeplearning-fall2025.github.io/
 
 - name: Sarina Heshmati
   roles:
@@ -40,11 +40,11 @@
   image: Rostamian.webp
   social:
     - name: github
-      link: https://www.linkedin.com/in/sarina-heshmatii
+      link: https://sut-deeplearning-fall2025.github.io/
     - name: linkedin
-      link: https://www.linkedin.com/in/sarina-heshmatii
+      link: https://sut-deeplearning-fall2025.github.io/
     - name: website
-      link: https://www.linkedin.com/in/sarina-heshmatii 
+      link: https://sut-deeplearning-fall2025.github.io/
       
 # - name: Amirhossein Akbari
 #   roles:
