@@ -14,11 +14,11 @@
     - name: gmail
       link: mailto:alitkvd@gmail.com
     - name: linkedin
-      link: 
+      link: https://www.linkedin.com/in/sarina-heshmatii
     - name: github
-      link: 
+      link: https://www.linkedin.com/in/sarina-heshmatii
     - name: website
-      link: 
+      link: https://www.linkedin.com/in/sarina-heshmatii
 
 - name: Sarina Heshmati
   roles:
@@ -40,11 +40,11 @@
   image: Rostamian.webp
   social:
     - name: github
-      link: 
+      link: https://www.linkedin.com/in/sarina-heshmatii
     - name: linkedin
-      link: 
+      link: https://www.linkedin.com/in/sarina-heshmatii
     - name: website
-      link:  
+      link: https://www.linkedin.com/in/sarina-heshmatii 
       
 # - name: Amirhossein Akbari
 #   roles:
