@@ -6,7 +6,7 @@
   assignment: []
   sections:
     - title: "Chapter 1 of GYC, Chapter 1 of CH, Chapter 1 of BSH"
-      link: ""
+      # link: ""
   color: ""
 
 - date:
@@ -195,7 +195,7 @@
     - 1404/10/20
     - 1404/10/22
   subjects:
-    - title: "**Deep reinforcement learning*"
+    - title: "**Deep reinforcement learning**"
       link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-27to29.pdf"
   assignment: []
   sections:
