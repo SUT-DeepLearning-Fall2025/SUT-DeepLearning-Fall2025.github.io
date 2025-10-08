@@ -38,7 +38,7 @@
   roles:
     - TA
   image: Rostamian.webp
-  # social:
+  social:
     # - name: github
     #   link: https://sut-deeplearning-fall2025.github.io/
     # - name: linkedin
