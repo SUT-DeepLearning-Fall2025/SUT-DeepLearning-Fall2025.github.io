@@ -6,10 +6,24 @@
     - name: linkedin
       link: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
 
+- name: Ali Torkashvand
+  roles:
+    - TA
+  image: Torkashvand.jpg
+  social:
+    - name: gmail
+      link: mailto:alitkvd@gmail.com
+    - name: linkedin
+      link: 
+    - name: github
+      link: 
+    - name: website
+      link: 
+
 - name: Sarina Heshmati
   roles:
     - TA
-  image: Sarina.jpg
+  image: Heshmati.jpg
   social:
     - name: gmail
       link: mailto:sarinaheshmatii@gmail.com
@@ -20,80 +34,80 @@
     - name: website
       link: https://sarinaheshmati.framer.website/
 
-- name: Hamid Namjoo
+- name: Emad Rostamian
   roles:
     - TA
-  image: Hamid_Namjoo.jpg
+  image: Rostamian.webp
   social:
     - name: github
-      link: https://github.com/hrnrxb
+      link: 
     - name: linkedin
-      link: https://www.linkedin.com/in/hamid-namjoo/
+      link: 
     - name: website
-      link: https://hamidnamjoo.com 
+      link:  
       
-- name: Amirhossein Akbari
-  roles:
-    - TA
-#   image: pouria.jpg
+# - name: Amirhossein Akbari
+#   roles:
+#     - TA
+# #   image: pouria.jpg
+# #   social:
+# #     - name: github
+# #       link: https://github.com/pouria-D
+# #     - name: linkedin
+# #       link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
+
+# - name: Amir Mohammad Fakhimi
+#   roles:
+#     - TA
+#   image: Fakhimi.jpeg
 #   social:
-#     - name: github
-#       link: https://github.com/pouria-D
+#     - name: gmail
+#       link: mailto:fakhimi.amirmohamad@gmail.com
 #     - name: linkedin
-#       link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
-
-- name: Amir Mohammad Fakhimi
-  roles:
-    - TA
-  image: Fakhimi.jpeg
-  social:
-    - name: gmail
-      link: mailto:fakhimi.amirmohamad@gmail.com
-    - name: linkedin
-      link: https://linkedin.com/in/amir-mohammad-fakhimi/
-    - name: github
-      link: https://github.com/AmirMohammadFakhimi
-    - name: website
-      link: https://www.amfakhimi.com/       
+#       link: https://linkedin.com/in/amir-mohammad-fakhimi/
+#     - name: github
+#       link: https://github.com/AmirMohammadFakhimi
+#     - name: website
+#       link: https://www.amfakhimi.com/       
 
 
-- name: Arshia Dadras
-  roles:
-    - TA
-  image: Dadras.jpg
-  social:
-    - name: linkedin
-      link: https://www.linkedin.com/in/arshiadadras
-    - name: gmail
-      link: mailto:arshiadadras1234@gmail.com
-    - name: github
-      link: https://github.com/ArshiaDadras
+# - name: Arshia Dadras
+#   roles:
+#     - TA
+#   image: Dadras.jpg
+#   social:
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/arshiadadras
+#     - name: gmail
+#       link: mailto:arshiadadras1234@gmail.com
+#     - name: github
+#       link: https://github.com/ArshiaDadras
 
       
-- name: Danial Gharib
-  roles:
-    - TA
-  image: Daniel.jpg
-  social:
-    - name: gmail
-      link: mailto:danial.mail.gh@gmail.com
-    - name: linkedin
-      link: https://www.linkedin.com/in/danial-gharib-33bb90195/
+# - name: Danial Gharib
+#   roles:
+#     - TA
+#   image: Daniel.jpg
+#   social:
+#     - name: gmail
+#       link: mailto:danial.mail.gh@gmail.com
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/danial-gharib-33bb90195/
 
 
-- name: Sarina Heshmati
-  roles:
-    - TA
-  image: Sarina.jpg
-  social:
-    - name: gmail
-      link: mailto:sarinaheshmatii@gmail.com
-    - name: linkedin
-      link: https://www.linkedin.com/in/sarina-heshmatii
-    - name: github
-      link: https://github.com/sarinaheshmati
-    - name: website
-      link: https://sarinaheshmati.framer.website/    
+# - name: Sarina Heshmati
+#   roles:
+#     - TA
+#   image: Sarina.jpg
+#   social:
+#     - name: gmail
+#       link: mailto:sarinaheshmatii@gmail.com
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/sarina-heshmatii
+#     - name: github
+#       link: https://github.com/sarinaheshmati
+#     - name: website
+#       link: https://sarinaheshmati.framer.website/    
 
 
 # - name: Nasrin Amjadi

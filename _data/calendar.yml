@@ -12,12 +12,12 @@
 - date:
     - 1404/07/21
   subjects:
-    - title: "**Boolean information retrieval and document preprocessing**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-2.pdf"
+    - title: "**Machine learning overview**"
+      link: "https://sharif.edu/~beigy/courses/14031/40719/Lect-2to3.pdf"
   assignment: []
   sections:
-    - title: "Chapters 1 & 2 of MRS"
-      link: "https://nlp.stanford.edu/IR-book/pdf/02voc.pdf"
+    - title: "Chapter 5 of GYC"
+      link: ""
   color: ""
 
 - date:
