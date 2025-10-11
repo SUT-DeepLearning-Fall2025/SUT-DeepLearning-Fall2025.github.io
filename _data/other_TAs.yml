@@ -15,8 +15,8 @@
       link: mailto:alitkvd@gmail.com
     # - name: linkedin
     #   link: https://sut-deeplearning-fall2025.github.io/
-    # - name: github
-    #   link: https://sut-deeplearning-fall2025.github.io/
+    - name: github
+      link: https://github.com/alitkvd
     # - name: website
     #   link: https://sut-deeplearning-fall2025.github.io/
 
@@ -94,6 +94,20 @@
     # - name: website
     #   link: https://sut-deeplearning-fall2025.github.io/
       
+
+- name: Amirhossein Akbari
+  roles:
+    - TA
+  image: akbari2.jpg
+  social:
+    # - name: gmail
+    #   link: mailto:alitkvd@gmail.com
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirhossein-akbari-758779262/
+    - name: github
+      link: https://github.com/AHNakbari
+    # - name: website
+    #   link: https://sut-deeplearning-fall2025.github.io/
 # - name: Amirhossein Akbari
 #   roles:
 #     - TA
