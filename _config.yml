@@ -1,0 +1,51 @@
+# Site settings
+course_name: Deep Learning
+course_description: "Deep learning is a sub-field of machine learning that is based on learning several levels of representations, corresponding to a hierarchy of features or factors or concepts."
+course_semester: "Fall 2025"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://sut-deeplearning-fall2025.github.io/" # the base hostname & protocol for your site
+
+schoolname: "Sharif University of Technology"
+schoolurl: "https://sharif.edu"
+# twitter_username: username 
+
+address: |
+    Sharif University of Technology
+
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

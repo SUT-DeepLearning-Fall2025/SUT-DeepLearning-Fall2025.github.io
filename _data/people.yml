@@ -1,0 +1,44 @@
+instructors:
+  - name: Dr. Hamid Beigy
+    profile_pic: /_images/pp/DrHamidBeigy.jpg
+    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+  # - name: Minerva McGonagall
+  #   profile_pic: /_images/pp/mcgonagall.jpg
+
+teaching_assistants:
+  - name: Seyed Reza Tavakoli
+    profile_pic: /_images/pp/tavakoli.jpg
+    webpage: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
+
+  - name: Ali Torkashvand
+    profile_pic: /_images/pp/Torkashvand.jpg
+    webpage: https://github.com/alitkvd
+    
+
+  - name: Sarina Heshmati
+    profile_pic: /_images/pp/Heshmati.jpg
+    webpage: https://github.com/sarinaheshmati
+
+  - name: Emad Rostamian
+    profile_pic: /_images/pp/Rostamian.webp
+    webpage: https://github.com/Emadrust
+
+  - name: Erfan Yeganegi
+    profile_pic: /_images/pp/yeganegi.jpg
+    webpage: https://github.com/alitkvd
+  
+  - name: Fateme Akbari
+    profile_pic: /_images/pp/Akbari.jpg
+    webpage: https://github.com/fatemeakbari?tab=achievements
+    
+  - name: Faeze Salmani
+    profile_pic: /_images/pp/Salmani.jpg
+    webpage: https://github.com/alitkvd
+    
+  - name: Seyed Moein Ayoubzade
+    profile_pic: /_images/pp/AyubZade.jpg
+    webpage: github.com/smoeina
+    
+  - name: Amirhossein Akbari
+    profile_pic: /_images/pp/akbari2.jpg
+    webpage: https://github.com/AHNakbari
