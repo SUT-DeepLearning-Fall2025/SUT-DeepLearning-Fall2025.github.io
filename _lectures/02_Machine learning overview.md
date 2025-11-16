@@ -6,9 +6,9 @@ date:
 title: "Machine learning overviewg"
 tldr: "Machine learning overview"
 links: 
-    - url: https://sharif.edu/~beigy/courses/14031/40719/Lect-2to3.pdf
+    - url: https://raw.githubusercontent.com/sut-deeplearning-fall2025/sut-deeplearning-fall2025.github.io/main/slides/Lect-2to3.pdf
       name: slides
 ---
 
 **Suggested Readings:**
-- [Chapter 5 of GYC](https://nlp.stanford.edu/IR-book/pdf/02voc.pdf)
+- [Chapter 5 of GYC](https://raw.githubusercontent.com/sut-deeplearning-fall2025/sut-deeplearning-fall2025.github.io/main/slides/Lect-2to3.pdf)
