@@ -9,5 +9,5 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Chapter 1 of GYC, Chapter 1 of CH, Chapter 1 of BSH](https://nlp.stanford.edu/IR-book/pdf/01bool.pdf)
+- [Chapter 1 of GYC, Chapter 1 of CH, Chapter 1 of BSH](https://raw.githubusercontent.com/sut-deeplearning-fall2025.github.io/slides/Lect-1.pdf)
 
